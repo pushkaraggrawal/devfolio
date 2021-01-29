@@ -24,6 +24,13 @@ module.exports = {
           'Working on a real life problem, with a strong constraint onavailability of healthy data. Screening of Chest X-Rays for COVID using AI. Thorough examination of current datasets to minimize bias, multiple iterations of training of various models in varied hyper-parameters. Applied techniques like data augmentation and semantic segmentation. Testing through CAM analysis and various numerical analysis techniques. Final GUI application using Flask',
         link: 'https://www.facebook.com/profile.php?id=100012254854551',
       },
+      
+      {
+        name: 'Explainable AI in Background Hallucination GAN',
+        description:
+          'Using DeepSHAP to mask gradient updates to the generator creating a information rich feedback. Building an image generating model which can be trained on smaller datasets of labeled maps of bounding boxes.',
+        link: 'https://github.com/pushkaraggrawal/xAI-BachGAN',
+      },
         
       {
         name: 'Multimodal Biometrics',
