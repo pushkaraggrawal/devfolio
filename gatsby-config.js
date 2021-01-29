@@ -22,16 +22,20 @@ module.exports = {
         name: 'Screening of Chest X-Rays for COVID using AI',
         description:
           'Working on a real life problem, with a strong constraint onavailability of healthy data. Screening of Chest X-Rays for COVID using AI. Thorough examination of current datasets to minimize bias, multiple iterations of training of various models in varied hyper-parameters. Applied techniques like data augmentation and semantic segmentation. Testing through CAM analysis and various numerical analysis techniques. Final GUI application using Flask',
+        link: 'https://www.facebook.com/profile.php?id=100012254854551',
       },
+        
       {
         name: 'Multimodal Biometrics',
         description:
           'Working on fusion of multiple modalities such as ear and fingerprints for a robust biometric model using using techniques such as Siamese Networks and Auto-Encoders.',
+        link: 'https://www.facebook.com/profile.php?id=100012254854551',
       },
       {
         name: 'Applications of Federated Learning in Healthcare',
         description:
           'Application of cGANs to augment dataset in a setting where data is sparse in features such as medical tests, prescriptions etc. Further application of blockchain based decentralized learning using PySyft and Etherium frameworks. Currently under work.',
+        link: 'https://www.facebook.com/profile.php?id=100012254854551',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -39,14 +43,17 @@ module.exports = {
       {
         name: 'Bhaskaracharya Institute for Space Applications and Geoinformatics (BISAG)',
         description: 'Summer Research Intern, 05/2020 - 07/2020',
+        link: 'https://www.facebook.com/profile.php?id=100012254854551',
         },
       {
         name: 'Department of Electrical and Electronics, BITS Pilani',
         description: 'Student Researcher, 06/2020 - 12/2020',
+        link: 'https://www.facebook.com/profile.php?id=100012254854551',
         },
       {
         name: 'Disruptive Technologies Lab, BITS Pilani',
-        description: 'Student Researcher, 01/2021 - Present,',
+        description: 'Student Researcher, 01/2021 - Present',
+        link: 'https://www.facebook.com/profile.php?id=100012254854551',
         
       },
       
