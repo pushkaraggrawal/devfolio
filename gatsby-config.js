@@ -1,14 +1,13 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `pushkar-portfolio.netlify.app/`,
     // Your Name
-    name: 'Pushkar Aggrawal   ',
+    name: 'Pushkar Aggrawal',
     // Main Site Title
     title: `Pushkar Aggrawal | Programmer and Machine Learning Researcher`,
     // Description that goes under your name in main bio
-    description: `Always willing to learn more. Enthusiastic programmer and researcher of Machine Learning from
-Reinforcement Learning to Computer Vision`,
+    description: `Highly motivated individual who aspires to learn as much as possible in a lifetime. Enthusiastic programmer and researcher of all fields of Machine Learning from Reinforcement Learning, Natural Language Processing to Computer Vision.`,
     // Optional: Twitter account handle
     
     // Optional: Github account URL
@@ -16,24 +15,24 @@ Reinforcement Learning to Computer Vision`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/pushkar-aggrawal-739361175/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `A highly motivated student in my third year of engineering @ BITS Pilani, Pilani campus. Pursuing B.E. Electrical and Electronics and Minor in Data Science. Looking for internship and thesis opportunities in the fields of Machine Learning. Drop a mail @ 20180431@pilani.bits-pilani.ac.in or @pushkaraggrawal@gmail.com for the same. Stay safe 😊`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
         name: 'Screening of Chest X-Rays for COVID using AI',
         description:
-          'Summer Research Intern @ Bhaskaracharya Institute for Space Applications and Geoinformatics (BISAG),Working on a real life problem, with a strong constraint onavailability of healthy data. Screening of Chest X-Rays for COVID using AI. Thorough examination of current datasets to minimize bias, multiple iterations of training of various models in varied hyper-parameters. Applied techniques like data augmentation and semantic segmentation. Testing through CAM analysis and various numerical analysis techniques. Final GUI application using Flask',
+          'Working on a real life problem, with a strong constraint onavailability of healthy data. Screening of Chest X-Rays for COVID using AI. Thorough examination of current datasets to minimize bias, multiple iterations of training of various models in varied hyper-parameters. Applied techniques like data augmentation and semantic segmentation. Testing through CAM analysis and various numerical analysis techniques. Final GUI application using Flask',
       },
       {
         name: 'Multimodal Biometrics',
         description:
-          'Research @ Department of Electrical & Electronics Engineering, BITS Pilani.Working on fusion of multiple modalities such as ear and fingerprints for a robust biometric model using using techniques such as Siamese Networks and Auto-Encoders.
+          'Working on fusion of multiple modalities such as ear and fingerprints for a robust biometric model using using techniques such as Siamese Networks and Auto-Encoders.
         ',
       },
       {
         name: 'Applications of Federated Learning in Healthcare',
         description:
-          'Research @ Disruptive Technologies Lab, BITS Pilani. Application of cGANs to augment dataset in a setting where data is sparse in features such as medical tests, prescriptions etc. Further application of blockchain based decentralized learning using PySyft and Etherium frameworks. Currently under work.',
+          'Application of cGANs to augment dataset in a setting where data is sparse in features such as medical tests, prescriptions etc. Further application of blockchain based decentralized learning using PySyft and Etherium frameworks. Currently under work.',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -41,6 +40,10 @@ Reinforcement Learning to Computer Vision`,
       {
         name: 'Bhaskaracharya Institute for Space Applications and Geoinformatics (BISAG)',
         description: 'Summer Research Intern, 05/2020 - 07/2020',
+        },
+      {
+        name: 'Department of Electrical and Electronics, BITS Pilani',
+        description: 'Student Researcher, 06/2020 - 12/2020',
         },
       {
         name: 'Disruptive Technologies Lab, BITS Pilani',
@@ -54,7 +57,7 @@ Reinforcement Learning to Computer Vision`,
       {
         name: 'Languages',
         description:
-          'Python, MATLAB, Java, Javasrcipt',
+          'Python, C++, MATLAB, Java, Javasrcipt',
       },
       {
         name: 'ML Frameworks',
@@ -73,7 +76,7 @@ Reinforcement Learning to Computer Vision`,
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`,
+        path: `${devfolio}/src/images`,
       },
     },
     {
