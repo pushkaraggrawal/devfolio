@@ -28,7 +28,7 @@ module.exports = {
       {
         name: 'Explainable AI in Background Hallucination GAN',
         description:
-          'Using DeepSHAP to mask gradient updates to the generator creating a information rich feedback. Building an image generating model which can be trained on smaller datasets of labeled maps of bounding boxes.',
+          'Using DeepSHAP to mask gradient updates to the generator creating an information rich feedback. Building an image generating model which can be trained on smaller datasets of labeled maps of bounding boxes.',
         link: 'https://github.com/pushkaraggrawal/xAI-BachGAN',
       },
         
