@@ -26,8 +26,7 @@ module.exports = {
       {
         name: 'Multimodal Biometrics',
         description:
-          'Working on fusion of multiple modalities such as ear and fingerprints for a robust biometric model using using techniques such as Siamese Networks and Auto-Encoders.
-        ',
+          'Working on fusion of multiple modalities such as ear and fingerprints for a robust biometric model using using techniques such as Siamese Networks and Auto-Encoders.',
       },
       {
         name: 'Applications of Federated Learning in Healthcare',
