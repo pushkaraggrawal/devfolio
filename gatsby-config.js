@@ -22,7 +22,7 @@ module.exports = {
         name: 'Screening of Chest X-Rays for COVID using AI',
         description:
           'Working on a real life problem, with a strong constraint onavailability of healthy data. Screening of Chest X-Rays for COVID using AI. Thorough examination of current datasets to minimize bias, multiple iterations of training of various models in varied hyper-parameters. Applied techniques like data augmentation and semantic segmentation. Testing through CAM analysis and various numerical analysis techniques. Final GUI application using Flask',
-        link: 'https://www.facebook.com/profile.php?id=100012254854551',
+        link: 'https://github.com/pushkaraggrawal/COVID-Net',
       },
       
       {
@@ -36,13 +36,13 @@ module.exports = {
         name: 'Multimodal Biometrics',
         description:
           'Working on fusion of multiple modalities such as ear and fingerprints for a robust biometric model using using techniques such as Siamese Networks and Auto-Encoders.',
-        link: 'https://www.facebook.com/profile.php?id=100012254854551',
+        link: 'https://github.com/pushkaraggrawal/COVID-Net',
       },
       {
         name: 'Applications of Federated Learning in Healthcare',
         description:
           'Application of cGANs to augment dataset in a setting where data is sparse in features such as medical tests, prescriptions etc. Further application of blockchain based decentralized learning using PySyft and Etherium frameworks. Currently under work.',
-        link: 'https://www.facebook.com/profile.php?id=100012254854551',
+        link: 'https://github.com/pushkaraggrawal/COVID-Net',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
