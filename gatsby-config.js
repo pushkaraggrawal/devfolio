@@ -48,6 +48,11 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Radio Control Club',
+        description: 'Core Technical Member, 07/2018 - 10/2019',
+        link: 'https://www.facebook.com/profile.php?id=100012254854551',
+        },    
+      {
         name: 'Bhaskaracharya Institute for Space Applications and Geoinformatics (BISAG)',
         description: 'Summer Research Intern, 05/2020 - 07/2020',
         link: 'https://www.facebook.com/profile.php?id=100012254854551',
