@@ -67,14 +67,7 @@ module.exports = {
         description: 'Student Researcher, 01/2021 - Present',
         link: 'https://www.facebook.com/profile.php?id=100012254854551',
         
-      },
-      {
-        name: 'Earth Rover',
-        description: 'Reasearch Intern, 02/2021 - Present',
-        link: 'https://www.earthrover.farm/',
-        
-      },
-      
+      },      
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
