@@ -67,7 +67,12 @@ module.exports = {
         description: 'Student Researcher, 01/2021 - Present',
         link: 'https://www.facebook.com/profile.php?id=100012254854551',
         
-      },      
+      },
+      {
+        name: 'Team BITS',
+        description: 'Autonomous Driving Lead, 01/2020 - Present',
+        link: 'https://www.linkedin.com/company/team-bits/?originalSubdomain=in',
+        }, 
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
