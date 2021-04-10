@@ -79,7 +79,7 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'Python, C++, MATLAB, Java, Javasrcipt',
+          'Python, C++, MATLAB, Java, Javascript',
       },
       {
         name: 'ML Frameworks',
