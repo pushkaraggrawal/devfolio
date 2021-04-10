@@ -41,7 +41,7 @@ module.exports = {
       {
         name: 'Applications of Federated Learning in Healthcare',
         description:
-          'Application of cGANs to augment dataset in a setting where data is sparse in features such as medical tests, prescriptions etc. Further application of blockchain based decentralized learning using PySyft and Etherium frameworks. Currently under work.',
+          'Using techniques in explainable AI to extract knowledge and feature importance using FL SHAP in vertical FL settings for healthcare. Currently under work mortality rates and diabetes as labels.',
         link: 'https://github.com/pushkaraggrawal/COVID-Net',
       },
     ],
