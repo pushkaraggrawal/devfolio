@@ -59,12 +59,12 @@ module.exports = {
         },
       {
         name: 'Department of Electrical and Electronics, BITS Pilani',
-        description: 'Student Researcher, 06/2020 - 12/2020',
+        description: 'Student Researcher under Prof. Pawan K. Ajmera, 06/2020 - 12/2020',
         link: 'https://www.facebook.com/profile.php?id=100012254854551',
         },
       {
         name: 'Disruptive Technologies Lab, BITS Pilani',
-        description: 'Student Researcher, 01/2021 - Present',
+        description: 'Student Researcher under Prof. Navneet Goyal, 01/2021 - Present',
         link: 'https://www.facebook.com/profile.php?id=100012254854551',
         
       },
