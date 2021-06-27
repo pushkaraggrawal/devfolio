@@ -77,6 +77,12 @@ module.exports = {
         link: 'https://www.linkedin.com/company/team-bits/?originalSubdomain=in',
         }, 
       
+      {
+        name: 'O R G A N I Z A T I O N S',
+        description: '_____________________________',
+        link: 'https://www.linkedin.com/company/team-bits/?originalSubdomain=in',
+        },  
+      
       
       {
         name: 'IEEE BITS Pilani Student Chapter, Executive and Public Relations, Machine Learning Lead',
