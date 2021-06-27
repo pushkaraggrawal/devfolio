@@ -80,7 +80,7 @@ module.exports = {
       {
         name: 'O R G A N I Z A T I O N S',
         description: '_____________________________',
-        link: 'https://www.linkedin.com/company/team-bits/?originalSubdomain=in',
+        
         },  
       
       
