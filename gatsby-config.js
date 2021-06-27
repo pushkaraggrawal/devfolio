@@ -26,6 +26,13 @@ module.exports = {
       },
       
       {
+        name: 'Hybrid Batteries using combination of Nuclear Batteries and Lithium Polymer Batteries',
+        description:
+          'Overcoming some challenges of nuclear batteries for an electronic device. Selected for publication in the Biology, Engineering, Medicine and Science Reports (BEMS) at the paper presentation event of APOGEE 2021.',
+        link: 'https://github.com/pushkaraggrawal/COVID-Net',
+      },
+      
+      {
         name: 'Explainable AI in Background Hallucination GAN',
         description:
           'Using DeepSHAP to mask gradient updates to the generator creating an information rich feedback. Building an image generating model which can be trained on smaller datasets of labeled maps of bounding boxes.',
@@ -46,12 +53,7 @@ module.exports = {
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
-    experience: [
-      {
-        name: 'Radio Control Club',
-        description: 'Core Technical Member, 07/2018 - 10/2019',
-        link: 'https://www.facebook.com/profile.php?id=100012254854551',
-        },    
+    experience: [  
       {
         name: 'Bhaskaracharya Institute for Space Applications and Geoinformatics (BISAG)',
         description: 'Summer Research Intern, 05/2020 - 07/2020',
@@ -68,6 +70,26 @@ module.exports = {
         link: 'https://www.facebook.com/profile.php?id=100012254854551',
         
       },
+      
+      {
+        name: 'CSIR-Central Electronics Engineering Research Institute',
+        description: 'Research Student Intern : AI Navigation for drones in forests. Online path planning, map generation, dynamic obstacle avoidance and simulation.',
+        link: 'https://www.linkedin.com/company/team-bits/?originalSubdomain=in',
+        }, 
+      
+      
+      {
+        name: 'IEEE BITS Pilani Student Chapter, Executive and Public Relations, Machine Learning Lead',
+        description: 'Developed and adapted a RL environment which was used in a kernel competition "AI Robosoccer" at the technical fest of BITS, APOGEE 2021. Preparation of a technical newsletter. Miscellaneous roles of responsibility in management and logistics.',
+        link: 'https://www.linkedin.com/company/team-bits/?originalSubdomain=in',
+        }, 
+      {
+        name: 'Radio Control Club',
+        description: 'Core Technical Member, 07/2018 - 10/2019',
+        link: 'https://www.facebook.com/profile.php?id=100012254854551',
+        },  
+      
+      
       {
         name: 'Team BITS',
         description: 'Autonomous Driving Lead, 01/2020 - Present',
@@ -79,7 +101,7 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'Python, C++, MATLAB, Java, Javascript',
+          'Python, C++, MATLAB, Java, Javascript,SQL',
       },
       {
         name: 'ML Frameworks',
@@ -88,7 +110,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Data Structures and Algorithms, Object Orented Programming, Operaing Systems, Effective Communication, Research and Strategy, Teamwork, Soft Skills',
+          'Data Structures and Algorithms, Object Orented Programming, Operaing Systems, MERN stack, Effective Communication, Research and Strategy, Teamwork, Soft Skills',
       },
     ],
   },
