@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'Pushkar Aggrawal',
     // Main Site Title
-    title: `Pushkar Aggrawal | Programmer and Machine Learning Researcher`,
+    title: `Pushkar Aggrawal | Software Development and Machine Learning`,
     // Description that goes under your name in main bio
     description: `Highly motivated individual who aspires to learn as much as possible in a lifetime. Enthusiastic programmer and researcher of all fields of Machine Learning from Reinforcement Learning, Natural Language Processing to Computer Vision.`,
     // Optional: Twitter account handle
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/pushkar-aggrawal-739361175/`,
     // Content of the About Me section
-    about: `A highly motivated student in my third year of engineering @ BITS Pilani, Pilani campus. Pursuing B.E. Electrical and Electronics and Minor in Data Science. Looking for internship and thesis opportunities in the fields of Machine Learning. Drop a mail @f20180431@pilani.bits-pilani.ac.in or @pushkaraggrawal@gmail.com for the same. Stay safe 😊`,
+    about: `A highly motivated student in my final year of engineering @ BITS Pilani, Pilani campus. Pursuing B.E. Electrical and Electronics and Minor in Data Science. Looking for full time opportunities in the fields of software engineering. Drop a mail to f20180431@pilani.bits-pilani.ac.in or pushkaraggrawal@gmail.com for the same. Stay safe 😊`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -28,7 +28,7 @@ module.exports = {
       {
         name: 'Hybrid Batteries using combination of Nuclear Batteries and Lithium Polymer Batteries',
         description:
-          'Overcoming some challenges of nuclear batteries for an electronic device. Selected for publication in the Biology, Engineering, Medicine and Science Reports (BEMS) at the paper presentation event of APOGEE 2021.',
+          'Overcoming some challenges of nuclear batteries for an electronic device. Selected for publication in the Biology, Engineering, Medicine and Science Reports (BEMS) at the paper presentation event of APOGEE 2021. https://www.researchgate.net/publication/351869941_Screening_of_Chest_X-Rays_for_COVID_using_AI. ',
         link: 'https://github.com/pushkaraggrawal/COVID-Net',
       },
       
@@ -55,6 +55,11 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [  
       {
+        name: 'Samsung R&D Institute, Bangalore',
+        description: 'R&D Intern, 07/2021 – Present',
+        link: 'https://www.facebook.com/profile.php?id=100012254854551',
+        },
+      {
         name: 'Bhaskaracharya Institute for Space Applications and Geoinformatics (BISAG)',
         description: 'Summer Research Intern, 05/2020 - 07/2020',
         link: 'https://www.facebook.com/profile.php?id=100012254854551',
@@ -72,8 +77,8 @@ module.exports = {
       },
       
       {
-        name: 'CSIR-Central Electronics Engineering Research Institute',
-        description: 'Research Student Intern : AI Navigation for drones in forests. Online path planning, map generation, dynamic obstacle avoidance and simulation.',
+        name: 'IBM, Qiskit',
+        description: 'Quantum Machine Learning Summer School. Learning techniques in : Quantum Circuits, Variational Approximation, Max Cut problem as Quadratic Unrestricted Binary Optimization, Quantum Kernels, Support Vectors.',
         link: 'https://www.linkedin.com/company/team-bits/?originalSubdomain=in',
         }, 
       
